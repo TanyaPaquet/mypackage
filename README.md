@@ -1,11 +1,11 @@
 # mypackage
-This library was created as an example of how to publish your own Python package.
+This library was created as a trial of how to publish a Python package.
 
-## building this package locally
+## Building this package locally
 `python setup.py sdist`
 
-## installing this package from GitHub
+## Installing this package from GitHub
 `pip install git+https://github.com/TanyaPaquet/mypackage.git`
 
-## updating this package from GitHub
+## Updating this package from GitHub
 `pip install --upgrade git+https://github.com/TanyaPaquet/mypackage.git`
